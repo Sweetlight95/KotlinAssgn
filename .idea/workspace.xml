@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec80b6de-1af4-49ca-a7f5-1e0fa5cccb6b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../classEight.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classEight.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classFive.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classFive.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classFour.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classFour.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classNine.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classNine.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classOne.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classOne.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classSeven.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classSeven.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classSix.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classSix.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classTen.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classTen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classThree.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classThree.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classTwo.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classTwo.kt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="24m3XBcDwRLY8omSAiEuL04zbvh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec80b6de-1af4-49ca-a7f5-1e0fa5cccb6b" name="Changes" comment="" />
+      <created>1644221982952</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644221982952</updated>
+      <workItem from="1644221982954" duration="24000" />
+    </task>
+    <servers />
+  </component>
+</project>
