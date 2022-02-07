@@ -1,7 +1,6 @@
 fun main() {
-    var number = 0;
 
     print("Enter a number: ")
-    number = readLine()!!.toInt()
+    var number = readLine()!!.toInt()
     print("Number enter is : $number");
 }

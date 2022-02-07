@@ -1,4 +1,4 @@
-fun main(args: Array<String>) {
+fun main() {
     val year = 1900
     var leap = false
 

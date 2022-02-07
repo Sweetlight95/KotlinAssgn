@@ -1,4 +1,4 @@
-fun main(args: Array<String>) {
+fun main() {
     val str = "Kotlin is a great language";
     val char = 'a';
     var frequency = 0;
